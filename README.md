@@ -1,4 +1,4 @@
-# Evaluacion Modulo 3 Taller 1
+# Evaluación Modulo 3 Taller 1
 
 ## 📖 Descripción
 En este taller, los estudiantes realizarán una investigación y análisis detallado sobre la historia
